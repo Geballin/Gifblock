@@ -31,6 +31,7 @@
  # See gifblock.txt for documentation
  #
  
+ package provide gifblock 1.0
  namespace eval ::gifblock:: {
    namespace export \
      gif.blocknames \
@@ -39,7 +40,6 @@
      gif.load       \
      gif.save       \
      gif.set
-   package provide gifblock 1.0
    }
  
  #-----------------------------------------------------------------------------

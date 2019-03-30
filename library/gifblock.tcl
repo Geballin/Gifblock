@@ -39,7 +39,7 @@
      gif.load       \
      gif.save       \
      gif.set
-   package provide Gifblock 1.0
+   package provide gifblock 1.0
    }
  
  #-----------------------------------------------------------------------------

@@ -15,5 +15,3 @@ Gifblock can be installed using the classic way.
     ./configure
     make
     make install
-
-End
